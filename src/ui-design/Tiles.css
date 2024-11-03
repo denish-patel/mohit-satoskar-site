@@ -1,0 +1,52 @@
+.slider-container .slick-slide {
+    width: 420px !important;
+}
+
+.slider-container .slick-list {
+    width: 100%;
+}
+
+/* the slides */
+.slick-slide {
+    margin-left: 27px;
+}
+
+/* the parent */
+.slick-list {
+    margin-left: -27px;
+}
+
+.card-wh {
+    width: 420px;
+    height: 500px;
+}
+
+.card-wh .card-body {
+    padding: 1.7647058824rem;
+    width: 20rem;
+    width: 100%;
+}
+
+.card-wh .card-body .card-title {
+    color: #1d1d1f;
+    font-size: 28px;
+    font-weight: 600;
+    letter-spacing: .007em;
+    line-height: 1.1428571429;
+}
+
+.card-wh .card-body .card-subtitle {
+    color: #1d1d1f;
+    font-size: 12px;
+    font-weight: 400;
+    letter-spacing: -.022em;
+    line-height: 1.2353641176;
+    text-transform: uppercase;
+}
+
+.card-wh .card-img-full {
+    display: block;
+    height: 100%;
+    object-fit: cover;
+    width: 100%;
+}
